@@ -75,14 +75,31 @@ sections:
               * Conducted lectures to review previous exams and answered questions to promote student success
               * Interacted with students to create a learning environment that fit individual learning needs
               * Assisted professors with miscellaneous work to ensure a well-organized course
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Engineering Intern
+          company: ProKey Facilities
+          company_url: 'https://www.archkey.com/prokey/'
+          company_logo: prokey
+          location: Plymouth, MN
+          date_start: '2022-05-12'
+          date_end: ''
+          description:  |2-
+              Responsibilities include:
+              * Managed procurement, and installation of mechanical equipment on large scale commercial buildings
+              * Designed pre-functional and functional commissioning tests based off controls documentation and schedules for various mechanical equipment
+              * Streamlined project management processes using Python and Microsoft VBA
+              * Supervised first year intern throughout summer program and provided feedback, and coaching
+        - title: AutoCAD Specialist Intern
+          company: 'Archkey Solutions: Technologies'
+          company_url: 'https://www.archkey.com/'
+          company_logo: akt
+          location: Plymouth, MN
+          date_start: '2021-02-12'
+          date_end: ''
+          description:  |2-
+              Responsibilities include:
+              * Facilitated change management through maintenance of AutoCAD blueprint database in conjunction with physical site changes
+              * Assisted the planning, logistics, and project management of various multi-million-dollar construction projects from beginning to end
+              * Identified equipment needs and procured necessary materials
     design:
       columns: '2'
 
