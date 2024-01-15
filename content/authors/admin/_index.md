@@ -51,7 +51,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 95
+        percent: 96
         icon: python
         icon_pack: fab
       - name: Solidworks
