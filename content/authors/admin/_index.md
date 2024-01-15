@@ -54,34 +54,34 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Solidworks
         description: ''
         percent: 100
-        icon: chart-line
+        icon: cube
         icon_pack: fas
-      - name: SQL
+      - name: C++
         description: ''
         percent: 40
-        icon: database
+        icon: code
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+      - name: Golfing
         description: ''
         percent: 100
-        icon: cat
+        icon: golf-ball-tee
         icon_pack: fas
-      - name: Photography
+      - name: Sailing
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: sailboat
+        icon_pack: fas
+      - name: Fishing
+        description: ''
+        percent: 60
+        icon: fish
         icon_pack: fas
 
 # Social/Academic Networking
