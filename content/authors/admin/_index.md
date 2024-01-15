@@ -112,7 +112,7 @@ social:
   # and uncomment the lines below.
   - icon: file
     icon_pack: fas
-    link: uploads/resume.pdf
+    link: [/uploads/AlexanderBeschResume.pdf](../../../static/uploads/AlexanderBeschResume.pdf)
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
