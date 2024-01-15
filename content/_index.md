@@ -223,10 +223,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Artificial Intelligence
-          tag: AI
         - name: Mechanical Design
           tag: Mechanical
+        - name: Artificial Intelligence
+          tag: AI
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
