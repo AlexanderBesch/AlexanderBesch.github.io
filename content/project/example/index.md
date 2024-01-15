@@ -3,7 +3,7 @@ title: Rosenbauer RTX Ladder Gantry System
 summary: Intelligently designed storage system for ladders on next generation Rosenbauer RTX firetruck.
 tags:
   - Mechanical
-date: '2016-04-27T00:00:00Z'
+date: '2022-12-16T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: truck-fire
+  - icon: truck
     icon_pack: fas
-    name: link
-    url: https://twitter.com/georgecushen
+    name: Rosenbauer Product Page
+    url: https://rosenbaueramerica.com/rosenbauer-revolutionary-technology/
 url_code: ''
 url_pdf: ''
 url_slides: ''
