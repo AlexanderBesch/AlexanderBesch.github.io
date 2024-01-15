@@ -100,6 +100,30 @@ sections:
               * Facilitated change management through maintenance of AutoCAD blueprint database in conjunction with physical site changes
               * Assisted the planning, logistics, and project management of various multi-million-dollar construction projects from beginning to end
               * Identified equipment needs and procured necessary materials
+        - title: Delivery Driver Helper
+          company: 'United Parcel Service'
+          company_url: 'https://www.ups.com/us/en/Home.page'
+          company_logo: ups
+          location: Maple Grove, MN
+          date_start: '2019-11-12'
+          date_end: '2021-01-12'
+          description:  |2-
+              Responsibilities included:
+              * Ensured efficient and accurate deliveries while maintaining rigorous workload during peak season while adhering to a strict schedule
+              * Communicated with customers regarding questions and concerns in a timely, professional manner
+              * Adapted to unforeseen circumstances due to changes in weather, workload, and conditions
+        - title: Head Lifeguard
+          company: 'YMCA'
+          company_url: 'https://www.ymcanorth.org/'
+          company_logo: ymca
+          location: Andover, MN
+          date_start: '2021-01-12'
+          date_end: '2018-01-12'
+          description:  |2-
+              Responsibilities included:
+              * Coordinated teams of lifeguards during shifts in order to ensure the safety of large numbers of patrons through direct and decisive leadership
+              * Interacted with customers and students from many cultural backgrounds and a wide range of abilities in order to teach lifelong skills in and around water
+              * Performed other facility responsibilities to maintain adherence to cleanliness and safety requirements
     design:
       columns: '2'
 
