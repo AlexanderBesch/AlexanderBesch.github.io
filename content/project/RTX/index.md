@@ -15,7 +15,7 @@ image:
 links:
   - icon: truck
     icon_pack: fas
-    name: Rosenbauer Product Page
+    name: Report
     url: https://rosenbaueramerica.com/rosenbauer-revolutionary-technology/
 url_code: ''
 url_pdf: ''

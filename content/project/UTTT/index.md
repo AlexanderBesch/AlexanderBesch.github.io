@@ -13,11 +13,14 @@ image:
   focal_point: Smart
 
 links:
-  - icon: truck
+  - icon: file
     icon_pack: fas
-    name: Rosenbauer Product Page
-    url: https://rosenbaueramerica.com/rosenbauer-revolutionary-technology/
-url_code: ''
+    name: Report
+    url: https://docs.google.com/document/d/1OOaWsup-7BIKx1tJh2bwaORIzThYFjy7K4TnGg2u_sw/edit?usp=sharing
+  - icon: code
+    icon_pack: fas
+    name: Code
+    url: https://github.com/AlexanderBesch/Ultimate-Tic-Tac-Toe/tree/main
 url_pdf: ''
 url_slides: ''
 url_video: ''
