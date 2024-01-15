@@ -1,15 +1,15 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Rosenbauer RTX Ladder Gantry System
+summary: Intelligently designed storage system for ladders on next generation Rosenbauer RTX firetruck.
 tags:
-  - Deep Learning
+  - Mechanical
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Delete this but its how to caption
   focal_point: Smart
 
 links:
