@@ -13,9 +13,9 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
+  - icon: truck-fire
+    icon_pack: fas
+    name: link
     url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
