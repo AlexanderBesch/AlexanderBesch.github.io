@@ -25,7 +25,7 @@ organizations:
     url: https://www.umn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include artifically intelligent robots, computer vision, and mechanical design.
 
 # Interests to show in About widget
 interests:

@@ -1,6 +1,6 @@
 ---
 title: Ultimate Tic-Tac-Toe
-summary: Artifically intelligent agent optimized for Ultimate Tic-Tac-Toe game
+summary: Artifically intelligent agent optimized for Ultimate Tic-Tac-Toe game. This Python project implemented the Mini-Max algorithm with alpha-beta pruning and Monte-Carlo search
 tags:
   - AI
 date: '2023-12-19T00:00:00Z'
@@ -33,6 +33,4 @@ url_video: ''
 # slides: example
 ---
 
-The RTX is a next-generation electric firetruck currently being developed by Rosenbauer. Current firetrucks store their ladders in the body of the truck, which takes up valuable space that could be used more effectively. The new RTX firetruck will store ladders on its roof, allowing for a more ideal equipment storage solution so that firefighters can focus on saving lives. Our team is responsible for designing a ladder gantry system that can deploy ladders from the stowed position on the RTX’s rooftop to an accessible location on the ground at the click of a button. This design considers the unique body and chassis of the RTX Firetruck, the needs of firefighters during active fire responses, as well as environmental factors during the products life cycle.
-
-Unfortunately, due to the project containing proprietary information, no CAD files or reports can be shared
+FILL THIS IN
