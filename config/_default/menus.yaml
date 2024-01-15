@@ -23,7 +23,7 @@ main:
     url: '#contact'
     weight: 60
   - name: Resume
-    url: /uploads/AlexanderBeschResume.pdf
+    url: uploads/AlexanderBeschResume.pdf
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
