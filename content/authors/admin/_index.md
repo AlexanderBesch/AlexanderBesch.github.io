@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graduate Student & Engineering Intern
 
 # Organizations/Affiliations to show in About widget
 organizations:
