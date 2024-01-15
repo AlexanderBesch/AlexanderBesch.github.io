@@ -65,7 +65,7 @@ sections:
         - title: 'Teaching Assistant: Robotics'
           company: University of Minnesota
           company_url: 'https://www.umn.edu'
-          company_logo: org-gc
+          company_logo: umn
           location: Minneapolis, MN
           date_start: '2024-01-11'
           date_end: ''
