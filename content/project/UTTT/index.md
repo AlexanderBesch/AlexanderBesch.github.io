@@ -1,9 +1,9 @@
 ---
-title: Rosenbauer RTX Ladder Gantry System
-summary: Intelligently designed storage system for ladders on next generation Rosenbauer RTX firetruck.
+title: Ultimate Tic-Tac-Toe
+summary: Artifically intelligent agent optimized for Ultimate Tic-Tac-Toe game
 tags:
-  - Mechanical
-date: '2022-12-16T00:00:00Z'
+  - AI
+date: '2023-12-19T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
