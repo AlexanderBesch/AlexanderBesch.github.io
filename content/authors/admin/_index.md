@@ -41,7 +41,7 @@ education:
       year: 2023 - 2024 (expected)
     - course: BS in Mechanical Engineering
       institution: University of Minnesota
-      year: 2023
+      year: 2020 - 2023
 
 
 # Skills
