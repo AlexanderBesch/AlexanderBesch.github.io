@@ -62,19 +62,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: 'Teaching Assistant: Robotics'
+          company: University of Minnesota
+          company_url: 'https://www.umn.edu'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Minneapolis, MN
+          date_start: '2024-01-11'
           date_end: ''
           description: |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * Created, revised, and graded examinations to properly reflect students' knowledge of course material
+              * Conducted lectures to review previous exams and answered questions to promote student success
+              * Interacted with students to create a learning environment that fit individual learning needs
+              * Assisted professors with miscellaneous work to ensure a well-organized course
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
