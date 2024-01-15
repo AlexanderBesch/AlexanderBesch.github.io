@@ -51,7 +51,7 @@ sections:
     design:
       columns: '1'
 
-      
+
   - block: experience
     id: experience
     content:
