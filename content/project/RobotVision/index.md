@@ -19,7 +19,7 @@ links:
     name: Code
     url: https://github.com/ryanbelmont/EE5271_Project
   - icon: slideshare
-    icon_pack: fas
+    icon_pack: fab
     name: Presentation
     url: https://docs.google.com/presentation/d/1RgNHFKQKeqjjbgmGjgYJjdZ3IuJDmxuOltNXcgrbcHY/edit?usp=sharing
 url_code: ''
