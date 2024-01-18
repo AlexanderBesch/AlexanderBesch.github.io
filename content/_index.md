@@ -300,9 +300,9 @@ sections:
       phone: 763 482 4173
       # appointment_url: 'https://calendly.com'
       address:
-        street: "Minneapolis, MN"
-        # city: Stanford
-        # region: CA
+        # street: "Minneapolis, MN"
+        city: Minneapolis
+        region: MN
         # postcode: '94305'
         # country: United States
         # country_code: US
