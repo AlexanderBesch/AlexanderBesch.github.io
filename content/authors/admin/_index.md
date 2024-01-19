@@ -118,5 +118,5 @@ social:
 highlight_name: true
 ---
 
-Alexander Besch is ... FILL THIS IN LATER
+I am a Masters student at the [Minnesota Robotics Institute](https://cse.umn.edu/mnri).
 {style="text-align: justify;"}
