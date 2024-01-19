@@ -118,5 +118,9 @@ social:
 highlight_name: true
 ---
 
-I am a Masters student at the [Minnesota Robotics Institute](https://cse.umn.edu/mnri).
+I am a Masters student specializing in robot cognition at the [Minnesota Robotics Institute (MnRI) at the University of Minnesota, Twin Cities](https://cse.umn.edu/mnri). My academic journey began with a degree in Mechanical Engineering from the same institution, where I developed a solid foundation for my future endeavors.
+
+Immediately after obtaining my bachelor's degree, I dove into the world of advanced robotics by enrolling in the Masters program. My passion for robotics was truly ignited during a Robotics course in my senior year, where I had the exciting opportunity to work with cutting-edge technologies such as TensorFlow and UR5 robots. This course marked a pivotal moment, coinciding with the era when the public gained access to transformative generative AI tools like ChatGPT. Experiencing the power of these technologies firsthand, coupled with the limitless potential they presented, played a pivotal role in shaping my career trajectory, solidifying my decision to pursue a masters.
+
+My academic focus revolves around the fascinating intersection of robot perception, intelligence, and manipulation. Exploring the capabilities of robots in understanding their surroundings, making intelligent decisions, and engaging in complex manipulation tasks captivates my curiosity. As I progress through my Masters program, I am driven by a commitment to contribute to the evolving field of robot cognition.
 {style="text-align: justify;"}
