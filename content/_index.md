@@ -225,10 +225,8 @@ sections:
           tag: '*'
         - name: Mechanical Design
           tag: Mechanical
-        - name: Artificial Intelligence
-          tag: AI
-        - name: Machine Learning
-          tag: ML
+        - name: AI/ML Cognition
+          tag: AIML
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

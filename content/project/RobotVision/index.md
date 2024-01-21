@@ -3,7 +3,7 @@ title: 3DoF AR Tag Following Robot
 summary: Homemade robot with 3 degrees of freedom can track and follow an augmented reality tag. The python program uses the open source opencv arucotag standard and demonstares position-based visual servoing and image-based visual servoing
 tags:
   - Mechanical
-  - AI
+  - AIML
 date: '2023-12-16T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

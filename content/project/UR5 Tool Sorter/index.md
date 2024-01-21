@@ -3,7 +3,7 @@ title: Robotic Tool Sorter
 summary: Developed a program to use a Universal Robots UR5 to sort tools. Python program utilizes tensorflow library for deep learning of tool image datasets.
 tags:
   - Mechanical
-  - ML
+  - AIML
 date: '2022-11-23T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

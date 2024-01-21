@@ -2,7 +2,7 @@
 title: Ultimate Tic-Tac-Toe
 summary: Artifically intelligent agent optimized for Ultimate Tic-Tac-Toe game. This Python project implemented the Mini-Max algorithm with alpha-beta pruning and Monte-Carlo search
 tags:
-  - AI
+  - AIML
 date: '2023-12-19T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
