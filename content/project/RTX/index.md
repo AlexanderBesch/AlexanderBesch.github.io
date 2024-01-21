@@ -32,4 +32,6 @@ url_video: ''
 
 The RTX is a next-generation electric firetruck currently being developed by Rosenbauer. Current firetrucks store their ladders in the body of the truck, which takes up valuable space that could be used more effectively. The new RTX firetruck will store ladders on its roof, allowing for a more ideal equipment storage solution so that firefighters can focus on saving lives. Our team is responsible for designing a ladder gantry system that can deploy ladders from the stowed position on the RTX’s rooftop to an accessible location on the ground at the click of a button. This design considers the unique body and chassis of the RTX Firetruck, the needs of firefighters during active fire responses, as well as environmental factors during the products life cycle.
 
+The video above shows the ladders are actuated by a hydraulic piston that raises the end of the ladders to an incline. Then the ladder shuttle is lowered via a pulley system attached to gas springs. The ladder shuttle can then be removed from the gantry system. Lightweight wheels and handles built into the ladder shuttle make for easy maneverability while maintaining the reliability firefighters require.
+
 Unfortunately, due to the project containing proprietary information, no CAD files or reports can be shared
