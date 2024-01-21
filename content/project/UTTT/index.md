@@ -33,4 +33,14 @@ url_video: ''
 # slides: example
 ---
 
-FILL THIS IN
+Ultimate Tic-Tac-Toe (UTTT) represents a sophisticated evolution of the traditional Tic-Tac-Toe game, introducing a heightened level of complexity and strategic depth. Departing from the conventional 3x3 grid, UTTT employs a 9x9 playing grid intricately subdivided into a master 3x3 grid, with each of its cells containing a 3x3 original Tic-Tac-Toe game. This innovative structure, as depicted in the accompanying image, challenges players to achieve victory on the larger scale 'master' Tic-Tac-Toe board.
+
+The focal objective of this project was the development of an intelligent agent capable of outperforming publicly available artificial intelligence counterparts in UTTT. The implementation, programmed in Python, leveraged the Mini-Max algorithm enhanced by Alpha-Beta pruning to optimize computational efficiency. The program boasts a diverse set of agents, including those operating on a Monte Carlo search algorithm, random player, and human player interfaces.
+
+A pivotal aspect of the project lay in the design of a robust heuristic to evaluate and score each game state. The heuristic, finely tuned to incentivize or disincentivize the agent's decisions, operated on the following principles:
+ - Sub-boards ending in tie recieved no points
+ - each path to win a sub-board gained a small number of points
+ - each path to lose a sub-board lost a small number of points
+ - each path to win master board gained a large number of points
+ - each path to lose master board lost a large number of points
+
