@@ -65,13 +65,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: 'Field Service Engineer - Life Sciences'
+          company: PAR Systems
+          company_url: 'https://www.par.com/'
+          company_logo: par
+          location: Shoreview, MN
+          date_start: '2024-05-20'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+              *	Tested, commissioned, installed, and maintained a variety of automation equipment with a wide array of features including robotic arms, computer vision, servos, and pneumatics
+              *	Designed documents and executed machine tests to ensure products met rigorous reliability, safety, regulatory, and customer standards
+              *	Constructed positive relationships with clients and ensured high levels of satisfaction
+              *	Developed and delivered customized training programs for customers, empowering them to effectively operate and troubleshoot automation systems
         - title: 'Teaching Assistant: Robotics'
           company: University of Minnesota
           company_url: 'https://www.umn.edu'
           company_logo: umn
           location: Minneapolis, MN
           date_start: '2024-01-11'
-          date_end: ''
+          date_end: '2024-05-03'
           description: |2-
               Responsibilities include:
               * Created, revised, and graded examinations to properly reflect students' knowledge of course material
@@ -84,7 +97,7 @@ sections:
           company_logo: prokey
           location: Plymouth, MN
           date_start: '2022-05-12'
-          date_end: ''
+          date_end: '2024-05-10'
           description:  |2-
               Responsibilities include:
               * Managed procurement, and installation of mechanical equipment on large scale commercial buildings
@@ -97,7 +110,7 @@ sections:
           company_logo: akt
           location: Plymouth, MN
           date_start: '2021-02-12'
-          date_end: ''
+          date_end: '2024-05-10'
           description:  |2-
               Responsibilities include:
               * Facilitated change management through maintenance of AutoCAD blueprint database in conjunction with physical site changes
