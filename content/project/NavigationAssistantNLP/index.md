@@ -5,7 +5,7 @@ tags:
   - AIML
   - Assistive Technology
   - Robotics
-date: '2023-12-19T00:00:00Z'
+date: '2024-12-12T00:00:00Z'
 
 external_link: ''
 
@@ -24,7 +24,7 @@ links:
   - icon: video
     icon_pack: fas
     name: Video
-    url: https://github.com/mohitydv09/nlp-final-project
+    url: https://www.youtube.com/watch?v=bQnBfadSGAU
 url_pdf: ''
 url_slides: ''
 url_video: ''
@@ -57,6 +57,11 @@ We employ object detection to identify and localize objects within the scene. De
 Key benefits of this approach include:  
 - **Efficiency:** Lightweight object detection is used instead of computationally heavy vision-language models (VLMs).  
 - **Scalability:** Temporal data integration ensures coherent scene descriptions.  
+
+The image below shows an example of the pipeline and framework, with the navigation module pipeline within the maroon box.
+<div style="text-align: center;">
+  <img src="nlp_project_pipeline.png" alt="Pipeline Image" width="90%" style="border: 1px solid #ddd; border-radius: 8px; padding: 5px;"/>
+</div>
 
 ---
 
