@@ -29,8 +29,8 @@ bio: My research interests include artifically intelligent robots, computer visi
 
 # Interests to show in About widget
 interests:
-  - Robot Manipulation
   - Artificial Intelligence & Machine Learning
+  - Robot Manipulation
   - Computer Vision
 
 # Education to show in About widget
@@ -38,7 +38,7 @@ education:
   courses:
     - course: MS in Robotics
       institution: University of Minnesota
-      year: 2023 - 2024 (expected)
+      year: 2023 - 2024
     - course: BS in Mechanical Engineering
       institution: University of Minnesota
       year: 2020 - 2023
@@ -118,9 +118,9 @@ social:
 highlight_name: true
 ---
 
-I am currently a Masters student specializing in robot cognition at the [Minnesota Robotics Institute (MnRI) at the University of Minnesota, Twin Cities](https://cse.umn.edu/mnri). My academic journey began with a degree in Mechanical Engineering from the same institution, where I developed a solid foundation of engineering principles.
+I am a Master’s student specializing in robot cognition at the [Minnesota Robotics Institute (MnRI) at the University of Minnesota, Twin Cities](https://cse.umn.edu/mnri). My journey in engineering began with a Bachelor’s degree in Mechanical Engineering from the same institution, where I built a strong foundation in engineering principles and problem-solving.
 
-Immediately after obtaining my bachelor's degree, I dove into the world of advanced robotics by enrolling in the Masters program. My passion for robotics was truly ignited during a Robotics course in my senior year, where I had the exciting opportunity to work with cutting-edge technologies such as TensorFlow and UR5 robots. This course marked a pivotal moment, coinciding with the era when the public gained access to transformative generative AI tools like ChatGPT. Experiencing the power of these technologies firsthand, coupled with the limitless potential they presented, played a pivotal role in shaping my career trajectory, solidifying my decision to pursue a masters.
+After earning my undergraduate degree, I immediately pursued my passion for robotics by enrolling in the Master’s program. This passion took root during a senior-year robotics course, where I had the chance to work with cutting-edge technologies like TensorFlow and UR5 robots. The timing was serendipitous—it coincided with the rise of generative AI tools like ChatGPT. Witnessing the transformative potential of these technologies firsthand not only sparked my interest in advanced robotics but also solidified my decision to specialize in this field.
 
-My academic focus revolves around the fascinating intersection of robot perception, intelligence, and manipulation. Exploring the capabilities of robots in understanding their surroundings, making intelligent decisions, and engaging in complex manipulation tasks captivates my curiosity. As I progress through my Masters program, I am driven by a commitment to contribute to the evolving field of robot cognition.
+My academic focus lies at the intersection of robot perception, intelligence, and manipulation. I am particularly fascinated by how robots can interpret their environments, make intelligent decisions, and perform intricate manipulation tasks. As I advance through my Master’s program, I am driven by a deep curiosity and a commitment to contribute meaningfully to the rapidly evolving field of robot cognition.
 {style="text-align: justify;"}

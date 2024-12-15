@@ -236,10 +236,11 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Mechanical Design
-          tag: Mechanical
         - name: AI/ML Cognition
           tag: AIML
+        - name: Mechanical Design
+          tag: Mechanical
+
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
