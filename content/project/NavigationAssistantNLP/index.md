@@ -29,6 +29,7 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 
+---
 
 ### Project Demo  
 <div style="text-align: center;">
