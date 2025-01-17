@@ -25,20 +25,20 @@ organizations:
     url: https://www.umn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artifically intelligent robots, computer vision, and mechanical design.
+bio: My research interests include artifically intelligent agents, intelligent robotics, and manufacturing.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence & Machine Learning
-  - Robot Manipulation
-  - Computer Vision
+  - Robot Manipulation and optimization
+  - LLMs
 
 # Education to show in About widget
 education:
   courses:
     - course: MS in Robotics
       institution: University of Minnesota
-      year: 2023 - 2024
+      year: 2023 - 2025
     - course: BS in Mechanical Engineering
       institution: University of Minnesota
       year: 2020 - 2023
@@ -54,15 +54,25 @@ skills:
         percent: 96
         icon: python
         icon_pack: fab
-      - name: Solidworks
+      - name: PyTorch
         description: ''
         percent: 100
-        icon: cube
+        icon: code
+        icon_pack: fas
+      - name: LLMs
+        description: ''
+        percent: 100
+        icon: code
         icon_pack: fas
       - name: C++
         description: ''
         percent: 75
         icon: code
+        icon_pack: fas
+      - name: Solidworkds
+        description: ''
+        percent: 75
+        icon: cube
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -82,6 +92,11 @@ skills:
         description: ''
         percent: 60
         icon: fish
+        icon_pack: fas
+      - name: Programming
+        description: ''
+        percent: 50
+        icon: code
         icon_pack: fas
 
 # Social/Academic Networking
@@ -118,9 +133,16 @@ social:
 highlight_name: true
 ---
 
-I am a Master’s student specializing in robot cognition at the [Minnesota Robotics Institute (MnRI) at the University of Minnesota, Twin Cities](https://cse.umn.edu/mnri). My journey in engineering began with a Bachelor’s degree in Mechanical Engineering from the same institution, where I built a strong foundation in engineering principles and problem-solving.
+<!-- I am a Master’s student specializing in robot cognition at the [Minnesota Robotics Institute (MnRI) at the University of Minnesota, Twin Cities](https://cse.umn.edu/mnri). My journey in engineering began with a Bachelor’s degree in Mechanical Engineering from the same institution, where I built a strong foundation in engineering principles and problem-solving.
 
 After earning my undergraduate degree, I immediately pursued my passion for robotics by enrolling in the Master’s program. This passion took root during a senior-year robotics course, where I had the chance to work with cutting-edge technologies like TensorFlow and UR5 robots. The timing was serendipitous—it coincided with the rise of generative AI tools like ChatGPT. Witnessing the transformative potential of these technologies firsthand not only sparked my interest in advanced robotics but also solidified my decision to specialize in this field.
 
-My academic focus lies at the intersection of robot perception, intelligence, and manipulation. I am particularly fascinated by how robots can interpret their environments, make intelligent decisions, and perform intricate manipulation tasks. As I advance through my Master’s program, I am driven by a deep curiosity and a commitment to contribute meaningfully to the rapidly evolving field of robot cognition.
+My academic focus lies at the intersection of robot perception, intelligence, and manipulation. I am particularly fascinated by how robots can interpret their environments, make intelligent decisions, and perform intricate manipulation tasks. As I advance through my Master’s program, I am driven by a deep curiosity and a commitment to contribute meaningfully to the rapidly evolving field of robot cognition. -->
+I am a recent graduate of the Master’s program at the [Minnesota Robotics Institute (MnRI) at the University of Minnesota, Twin Cities](https://cse.umn.edu/mnri) where I specialized in robot cognition. My journey in engineering began with a Bachelor’s degree in Mechanical Engineering from the same institution, providing me with a strong foundation in engineering principles and problem-solving.
+
+Currently, I work as a Field Service and Controls Engineer at PAR Systems, where I combine my technical expertise with a hands-on approach to implementing and optimizing industrial automation solutions. This role allows me to bridge the gap between advanced technology and practical application, contributing to the efficiency and precision of automated systems in real-world industrial environments.
+
+My academic and professional experiences have cultivated a deep interest in leveraging advanced technologies like Large Language Models (LLMs) to enhance industrial automation. During my graduate studies, I explored the transformative potential of LLMs in enabling intelligent decision-making and reasoning within robotic systems. I am particularly fascinated by how these models can interpret unstructured data, integrate with automation workflows, and drive innovative solutions in manufacturing and beyond.
+
+With a focus on the intersection of industrial automation, robotics, and AI, I am driven by a passion for solving complex challenges and advancing the capabilities of intelligent systems. Whether optimizing robotic processes or exploring cutting-edge applications of LLMs, I am committed to pushing the boundaries of what’s possible in this exciting field.
 {style="text-align: justify;"}
