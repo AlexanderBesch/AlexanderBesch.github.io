@@ -1,6 +1,6 @@
 ---
-title: Navigation Assistant for the Visually Impaired
-summary: Leveraging AI to enhance navigation and environmental awareness for visually impaired individuals through advanced object detection and scene reasoning.
+title: LLM Navigation Assistant for the Visually Impaired
+summary: Leveraging Generative AI to enhance navigation and environmental awareness for visually impaired individuals through advanced object detection and scene reasoning.
 tags:
   - AIML
   - Assistive Technology
