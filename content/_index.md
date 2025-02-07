@@ -74,10 +74,13 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              *	Tested, commissioned, installed, and maintained a variety of automation equipment with a wide array of features including robotic arms, computer vision, servos, and pneumatics
-              *	Designed documents and executed machine tests to ensure products met rigorous reliability, safety, regulatory, and customer standards
+              *	Designed, programmed, tested, commissioned, installed, and maintained a variety of automation equipment with a wide array of features including HMI, robotic arms, SCARA robots, computer vision, servos, pneumatics, and barcode readers
+              *	Created and executed machine tests to ensure products met rigorous reliability, safety, regulatory, and customer standards
               *	Constructed positive relationships with clients and ensured high levels of satisfaction
-              *	Developed and delivered customized training programs for customers, empowering them to effectively operate and troubleshoot automation systems
+              *	Developed and delivered customized training programs and documentation for customers, empowering them to effectively operate and troubleshoot automation systems
+              *	Assisted with integration of AI/LLMs into business workflows while maintaining data security
+              *	Completed master’s capstone project exploring integration of machine learning for document checking and verification 
+              
         - title: 'Teaching Assistant: Robotics'
           company: University of Minnesota
           company_url: 'https://www.umn.edu'
@@ -87,10 +90,10 @@ sections:
           date_end: '2024-05-03'
           description: |2-
               Responsibilities include:
-              * Created, revised, and graded examinations to properly reflect students' knowledge of course material
+              * Created, revised, and graded examinations to accurately reflect students’ knowledge of course material
               * Conducted lectures to review previous exams and answered questions to promote student success
-              * Interacted with students to create a learning environment that fit individual learning needs
-              * Assisted professors with miscellaneous work to ensure a well-organized course
+              *	Interacted with students to create a classroom environment that fit individual learning needs
+              
         - title: Engineering Intern
           company: ProKey Facilities
           company_url: 'https://www.archkey.com/prokey/'
@@ -100,10 +103,10 @@ sections:
           date_end: '2024-05-10'
           description:  |2-
               Responsibilities include:
-              * Managed procurement, and installation of mechanical equipment on large scale commercial buildings
-              * Designed pre-functional and functional commissioning tests based off controls documentation and schedules for various mechanical equipment
-              * Streamlined project management processes using Python and Microsoft VBA
-              * Supervised first year intern throughout summer program and provided feedback, and coaching
+              * Assisted with procurement, programming, and installation of mechanical equipment and controls systems for large-scale commercial buildings
+              *	Designed pre-functional and functional commissioning tests based off controls documentation and schedules for various mechanical equipment
+              *	Streamlined project management processes using Python and Microsoft VBA
+              *	Supervised first year intern throughout summer program and provided feedback, and coaching
         - title: AutoCAD Specialist Intern
           company: 'Archkey Solutions: Technologies'
           company_url: 'https://www.archkey.com/'
