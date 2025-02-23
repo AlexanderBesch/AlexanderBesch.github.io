@@ -106,7 +106,7 @@ sections:
               * Assisted with procurement, programming, and installation of mechanical equipment and controls systems for large-scale commercial buildings
               *	Designed pre-functional and functional commissioning tests based off controls documentation and schedules for various mechanical equipment
               *	Streamlined project management processes using Python and Microsoft VBA
-              *	Supervised first year intern throughout summer program and provided feedback, and coaching
+              *	Mentored first year intern throughout summer program and provided feedback, and coaching
         - title: AutoCAD Specialist Intern
           company: 'Archkey Solutions: Technologies'
           company_url: 'https://www.archkey.com/'
