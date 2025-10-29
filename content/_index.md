@@ -65,13 +65,30 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: 'Electrical & Controls Engineer'
+          company: Delta ModTech
+          company_url: 'https://www.deltamodtech.com/'
+          company_logo: deltamodtech
+          location: Ramsey, MN
+          date_start: '2025-03-17'
+          date_end: ''
+          description: |2-
+            Responsibilities include:
+            * Designed, programmed, and commissioned precision web converting and servo motion systems for custom manufacturing machinery
+            * Integrated and optimized complex motion control architectures using multi-axis servo coordination, PLCs, and advanced HMI interfaces
+            * Diagnosed and resolved electrical, software, and motion-related issues in high-speed converting equipment for a variety of industries
+            * Collaborated with cross-functional teams to ensure seamless mechanical, electrical, and software integration
+            * Built strong relationships with customers, understanding their needs and delivering tailored automation solutions that exceeded expectations
+            * Contributed to internal AI initiatives as part of a company AI team, developing cutting-edge RAG and search-based solutions to streamline information retrieval and decision-making
+            * Supported field installations, testing, and service work to ensure reliable system performance and long-term customer satisfaction
+
         - title: 'Field Service Engineer - Life Sciences'
           company: PAR Systems
           company_url: 'https://www.par.com/'
           company_logo: par
           location: Shoreview, MN
           date_start: '2024-05-20'
-          date_end: ''
+          date_end: '2025-03-14'
           description: |2-
               Responsibilities include:
               *	Designed, programmed, tested, commissioned, installed, and maintained a variety of automation equipment with a wide array of features including HMI, robotic arms, SCARA robots, computer vision, servos, pneumatics, and barcode readers

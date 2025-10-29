@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student & Engineering Intern
+role: Graduate Student & Electrical Controls Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -140,7 +140,7 @@ After earning my undergraduate degree, I immediately pursued my passion for robo
 My academic focus lies at the intersection of robot perception, intelligence, and manipulation. I am particularly fascinated by how robots can interpret their environments, make intelligent decisions, and perform intricate manipulation tasks. As I advance through my Master’s program, I am driven by a deep curiosity and a commitment to contribute meaningfully to the rapidly evolving field of robot cognition. -->
 I am a recent graduate of the Master’s program at the [Minnesota Robotics Institute (MnRI) at the University of Minnesota, Twin Cities](https://cse.umn.edu/mnri) where I specialized in robot cognition. My journey in engineering began with a Bachelor’s degree in Mechanical Engineering from the same institution, providing me with a strong foundation in engineering principles and problem-solving.
 
-Currently, I work as a Field Service and Controls Engineer at PAR Systems, where I combine my technical expertise with a hands-on approach to implementing and optimizing industrial automation solutions. This role allows me to bridge the gap between advanced technology and practical application, contributing to the efficiency and precision of automated systems in real-world industrial environments.
+Currently, I work as a Electrical and Controls Engineer at Delta ModTech, where I combine my technical expertise with a hands-on approach to implementing and optimizing industrial automation solutions. This role allows me to bridge the gap between advanced technology and practical application, contributing to the efficiency and precision of automated systems in real-world industrial environments.
 
 My academic and professional experiences have cultivated a deep interest in leveraging advanced technologies like Large Language Models (LLMs) to enhance industrial automation. During my graduate studies, I explored the transformative potential of LLMs in enabling intelligent decision-making and reasoning within robotic systems. I am particularly fascinated by how these models can interpret unstructured data, integrate with automation workflows, and drive innovative solutions in manufacturing and beyond.
 
