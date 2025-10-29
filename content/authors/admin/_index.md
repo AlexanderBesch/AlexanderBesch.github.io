@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student & Electrical Controls Engineer
+role: Electrical Controls Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
