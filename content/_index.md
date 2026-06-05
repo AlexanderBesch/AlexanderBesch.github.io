@@ -74,13 +74,14 @@ sections:
           date_end: ''
           description: |2-
             Responsibilities include:
-            * Designed, programmed, and commissioned precision web converting and servo motion systems for custom manufacturing machinery
-            * Integrated and optimized complex motion control architectures using multi-axis servo coordination, PLCs, and advanced HMI interfaces
-            * Diagnosed and resolved electrical, software, and motion-related issues in high-speed converting equipment for a variety of industries
-            * Collaborated with cross-functional teams to ensure seamless mechanical, electrical, and software integration
-            * Built strong relationships with customers, understanding their needs and delivering tailored automation solutions that exceeded expectations
-            * Contributed to internal AI initiatives as part of a company AI team, developing cutting-edge RAG and search-based solutions to streamline information retrieval and decision-making
-            * Supported field installations, testing, and service work to ensure reliable system performance and long-term customer satisfaction
+            * Designed, programmed, integrated, and commissioned precision web converting, motion control, and automation systems for custom manufacturing machinery and multimillion-dollar projects
+            * Developed and optimized complex motion control architectures using multi-axis servo coordination, PLCs, vision systems, and advanced HMI interfaces
+            * Managed projects from concept through commissioning, coordinating technical requirements, schedules, and customer expectations to ensure successful delivery
+            * Collaborated with cross-functional mechanical, electrical, and software teams to drive seamless system integration and project execution
+            * Built strong customer relationships by understanding operational needs, providing technical guidance, and delivering tailored automation solutions that exceeded expectations
+            * Diagnosed and resolved electrical, software, and motion-control issues in high-speed manufacturing equipment across a variety of industries
+            * Contributed to internal AI initiatives as part of the company AI team, developing RAG and search-based solutions to improve information retrieval, decision-making, and operational efficiency
+            * Supported field installations, testing, startup, and service activities to ensure reliable system performance, successful project launches, and long-term customer satisfaction
 
         - title: 'Field Service Engineer - Life Sciences'
           company: PAR Systems
